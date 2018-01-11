@@ -31,7 +31,7 @@ When you connect your Habitat account with a third-party service we may collect 
 information associated with that third-party account and underlying resources. We make efforts to
 limit data collection to the minimum required to provide the service to you.
 
-##### Slack
+**Slack**:
 
 We register a Slackbot with your workspace. We may send direct messages. We may post in channels the
 bot has been invited too. We may store the content of messages that directly mention the bot. We may
@@ -51,7 +51,7 @@ User scopes:
 
 * `identity.basic`
 
-##### Google
+**Google**:
 
 When you create your account we may store profile information and use Google data to verifiy your
 identity and membership of an organization. If you connect Google Drive, we register for push
@@ -71,7 +71,7 @@ User scopes:
 
 * `drive.readonly`
 
-##### GitHub
+**GitHub**:
 
 We register [webhooks](https://developer.github.com/webhooks/) and store metadata about the activity
 associated with connected accounts. We don't have access to repos or source code.
@@ -86,7 +86,7 @@ User scopes:
 
 * `user:email`
 
-##### Asana
+**Asana**:
 
 We register [webhooks](https://asana.com/developers/api-reference/events) and store metadata about
 the activity associated with connected accounts.
@@ -99,7 +99,7 @@ User scopes:
 
 * `default`
 
-##### Jira
+**Jira**:
 
 Jira requires manual configuration. We request that you configure a
 [webhook](https://developer.atlassian.com/server/jira/platform/webhooks/) such that we can collect
