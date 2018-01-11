@@ -1,9 +1,10 @@
 # Habitat Privacy Policy
 
-Effective: August 1, 2017
-
 Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to
 earn your trust that we are careful with your data.
+
+* _Effective: August 1, 2017_
+* _Last Updated: January 11, 2018_
 
 ### General information
 
@@ -18,17 +19,98 @@ We collect information about what Habitat pages you access, information about yo
 or communicate with us), and referral information. When you use Habitat Services, we may collect and
 store your Internet Protocol address. We may use this information to fight spam and other abuse; to
 personalize Habitat Services; or to generate aggregate, non-identifying information about how people
-use Habitat Services. When you create your Habitat account, and authenticate via a third-party
-service like Slack or Github, we may collect, store, and periodically update the contact lists
-associated with that third-party account, so you can connect with existing contacts from that
-service who are on Habitat.
+use Habitat Services. When you create your Habitat account and authenticate via a third-party
+service, like Google, we may collect, store, and periodically update profile information associated
+with that third-party account. If you choose to authenticate with other services, during sign up or
+otherwise, you are giving Habitat the permission to use, share, and store associated data in a
+manner consistent with this Privacy Notice.
+
+#### Integrations
+
+When you connect your Habitat account with a third-party service we may collect and store
+information associated with that third-party account and underlying resources. We make efforts to
+limit data collection to the minimum required to provide the service to you.
+
+##### Slack
+
+We register a Slackbot with your workspace. We may send direct messages. We may post in channels the
+bot has been invited too. We may store the content of messages that directly mention the bot. We may
+store changes to do-not-disturb and presence state.
+
+Admin scopes:
+
+* `bot`
+* `channels:read`
+* `chat:write:bot`
+* `dnd:read`
+* `reactions:read`
+* `reactions:write`
+* `team:read`
+
+User scopes:
+
+* `identity.basic`
+
+##### Google
+
+When you create your account we may store profile information and use Google data to verifiy your
+identity and membership of an organization. If you connect Google Drive, we register for push
+[notifications](https://developers.google.com/drive/v3/web/push) and store metadata about the
+activity associated with connected accounts.
+
+Sign-in scopes:
+
+* `userinfo.profile`
+* `userinfo.email`
+
+Admin scopes:
+
+* `drive.readonly`
+
+User scopes:
+
+* `drive.readonly`
+
+##### GitHub
+
+We register [webhooks](https://developer.github.com/webhooks/) and store metadata about the activity
+associated with connected accounts. We don't have access to repos or source code.
+
+Admin scopes:
+
+* `user:email`
+* `admin:org_hook`
+* `read:org`
+
+User scopes:
+
+* `user:email`
+
+##### Asana
+
+We register [webhooks](https://asana.com/developers/api-reference/events) and store metadata about
+the activity associated with connected accounts.
+
+Admin scopes:
+
+* `default`
+
+User scopes:
+
+* `default`
+
+##### Jira
+
+Jira requires manual configuration. We request that you configure a
+[webhook](https://developer.atlassian.com/server/jira/platform/webhooks/) such that we can collect
+and store metadata about the activity associated with connected accounts.
 
 ### Email from Habitat
 
 Sometimes we’ll send administrative emails about account or service changes, or new policies. You
-can’t opt out of them. You can always opt out of non-administrative emails such as daily digests. We
-won’t email you to ask for your password or other account information. If you receive such an email,
-send it to us so we can investigate.
+can’t opt out of them. You can always opt out of non-administrative emails such as daily
+notifications. We won’t email you to ask for your password or other account information. If you
+receive such an email, send it to us so we can investigate.
 
 ### Disclosure of your information
 
