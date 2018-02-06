@@ -1,4 +1,4 @@
-# Habitat Privacy Policy
+# Range Privacy Policy
 
 Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to
 earn your trust that we are careful with your data.
@@ -8,28 +8,28 @@ earn your trust that we are careful with your data.
 
 ### General information
 
-This policy sets out our privacy practices and explains how Habitat Labs Inc. (“Habitat”) handles
-the information we collect when you visit and use our sites, services, mobile applications,
-products, and content (“Services”).
+This policy sets out our privacy practices and explains how Range Labs Inc. (“Range”) handles the
+information we collect when you visit and use our sites, services, mobile applications, products,
+and content (“Services”).
 
 ### What we may collect
 
-We collect information about what Habitat pages you access, information about your mobile device
-(such as device or browser type), information you send us (such as an email address used to register
-or communicate with us), and referral information. When you use Habitat Services, we may collect and
+We collect information about what Range pages you access, information about your mobile device (such
+as device or browser type), information you send us (such as an email address used to register or
+communicate with us), and referral information. When you use Range Services, we may collect and
 store your Internet Protocol address. We may use this information to fight spam and other abuse; to
-personalize Habitat Services; or to generate aggregate, non-identifying information about how people
-use Habitat Services. When you create your Habitat account and authenticate via a third-party
-service, like Google, we may collect, store, and periodically update profile information associated
-with that third-party account. If you choose to authenticate with other services, during sign up or
-otherwise, you are giving Habitat the permission to use, share, and store associated data in a
-manner consistent with this Privacy Notice.
+personalize Range Services; or to generate aggregate, non-identifying information about how people
+use Range Services. When you create your Range account and authenticate via a third-party service,
+like Google, we may collect, store, and periodically update profile information associated with that
+third-party account. If you choose to authenticate with other services, during sign up or otherwise,
+you are giving Range the permission to use, share, and store associated data in a manner consistent
+with this Privacy Notice.
 
 #### Integrations
 
-When you connect your Habitat account with a third-party service we may collect and store
-information associated with that third-party account and underlying resources. We make efforts to
-limit data collection to the minimum required to provide the service to you.
+When you connect your Range account with a third-party service we may collect and store information
+associated with that third-party account and underlying resources. We make efforts to limit data
+collection to the minimum required to provide the service to you.
 
 **Slack**:
 
@@ -105,7 +105,7 @@ Jira requires manual configuration. We request that you configure a
 [webhook](https://developer.atlassian.com/server/jira/platform/webhooks/) such that we can collect
 and store metadata about the activity associated with connected accounts.
 
-### Email from Habitat
+### Email from Range
 
 Sometimes we’ll send administrative emails about account or service changes, or new policies. You
 can’t opt out of them. You can always opt out of non-administrative emails such as daily
@@ -134,12 +134,12 @@ your account during the notice period.
 
 ### Additional access to information during the Alpha
 
-During the Habitat Alpha development period, we will be actively monitoring usage by organizations
-so that we can improve the product. In order to understand how you are using our Services, we may
+During the Range Alpha development period, we will be actively monitoring usage by organizations so
+that we can improve the product. In order to understand how you are using our Services, we may
 occasionally access and inspect your organization’s information (for example the updates you
 publish). Information used for this purpose will be kept in confidence and will not be shared
 outside the company. If you are concerned about access to your information, please
-[let us know](mailto:feedback@habitat-labs.com).
+[let us know](mailto:feedback@range.co).
 
 ### Cookies
 
@@ -148,13 +148,13 @@ return to our Services. We use them in various ways, for example to log you in, 
 preferences, evaluate email effectiveness, and personalize information.
 
 Some third-party services that we use, such as Intercom or Google Analytics, may place their own
-cookies in your browser. This Privacy Policy covers use of cookies by Habitat only and not the use
-of cookies by third parties.
+cookies in your browser. This Privacy Policy covers use of cookies by Range only and not the use of
+cookies by third parties.
 
 ### Data Storage
 
-Habitat uses third-party vendors and hosting partners, such as Amazon, for hardware, software,
-networking, storage, and related technology we need to run Habitat.
+Range uses third-party vendors and hosting partners, such as Amazon, for hardware, software,
+networking, storage, and related technology we need to run Range.
 
 ### Data security
 
@@ -165,7 +165,7 @@ using a strong password).
 
 ### Changes to this policy
 
-Habitat may periodically update this Policy. We’ll notify you about significant changes to it. The
+Range may periodically update this Policy. We’ll notify you about significant changes to it. The
 most current version of the policy will always be
 [here](https://github.com/habitat-labs/habitat-policy) and we will archive former versions of the
 policy as well.
@@ -173,4 +173,4 @@ policy as well.
 ### Questions
 
 We welcome questions, concerns, and feedback about this policy at
-[feedback@habitat-labs.com](mailto:feedback@habitat-labs.com).
+[feedback@range.co](mailto:feedback@range.co).

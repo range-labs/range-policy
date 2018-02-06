@@ -1,19 +1,19 @@
-# Habitat Terms of Service
+# Range Terms of Service
 
 Effective: August 1, 2017
 
-These Terms of Service (“Terms”) are a contract between you and Habitat Labs Inc. (“Habitat”). They
-govern your use of Habitat’s sites, services, mobile apps, products, and content (“Services”). By
-using Habitat, you agree to these Terms. If you don’t agree to any of the Terms, you can’t use
-Habitat. We can change these Terms at any time. We will keep a historical record of all changes to
-our Terms. If a change is material, we’ll let you know before they take effect. By using Habitat on
-or after that effective date, you agree to the new Terms. If you don’t agree to them, you should
-delete your account before they take effect, otherwise your use of the site and content will be
-subject to the new Terms.
+These Terms of Service (“Terms”) are a contract between you and Range Labs Inc. (“Range”). They
+govern your use of Range’s sites, services, mobile apps, products, and content (“Services”). By
+using Range, you agree to these Terms. If you don’t agree to any of the Terms, you can’t use Range.
+We can change these Terms at any time. We will keep a historical record of all changes to our Terms.
+If a change is material, we’ll let you know before they take effect. By using Range on or after that
+effective date, you agree to the new Terms. If you don’t agree to them, you should delete your
+account before they take effect, otherwise your use of the site and content will be subject to the
+new Terms.
 
 ### Content rights & responsibilities
 
-Your organization owns the rights to the content you create and post on Habitat.
+Your organization owns the rights to the content you create and post on Range.
 
 You and your organization are responsible for the content you post. This means you assume all risks
 related to it, including someone else’s reliance on its accuracy, or claims relating to intellectual
@@ -23,11 +23,11 @@ We can remove any content you post for any reason.
 
 ### Our content and services
 
-We reserve all rights in Habitat’s look and feel. Some parts of Habitat are licensed under
-third-party open source licenses. We also may make some of our own code available under open source
-licenses. As for other parts of Habitat, you may not copy or adapt any portion of our code or visual
-design elements (including logos) without express written permission from Habitat unless otherwise
-permitted by law.
+We reserve all rights in Range’s look and feel. Some parts of Range are licensed under third-party
+open source licenses. We also may make some of our own code available under open source licenses. As
+for other parts of Range, you may not copy or adapt any portion of our code or visual design
+elements (including logos) without express written permission from Range unless otherwise permitted
+by law.
 
 You may not do, or try to do, the following: (1) access or tamper with non-public areas of the
 Services, our computer systems, or the systems of our technical providers; (2) access or search the
@@ -47,33 +47,33 @@ notice.
 
 ### No children
 
-Habitat is only for people 13 years old and over. By using Habitat, you affirm that you are over 13.
-If we learn someone under 13 is using Habitat, we’ll terminate their account.
+Range is only for people 13 years old and over. By using Range, you affirm that you are over 13. If
+we learn someone under 13 is using Range, we’ll terminate their account.
 
 ### Security
 
-If you find a security vulnerability on Habitat, please tell us.
+If you find a security vulnerability on Range, please tell us.
 
 ### Incorporated rules and policies
 
-By using the Services, you agree to let Habitat collect and use information as detailed in our
-Privacy Policy. If you’re outside the United States, you consent to letting Habitat transfer, store,
-and process your information (including your personal information and content) in and out of the
-United States.
+By using the Services, you agree to let Range collect and use information as detailed in our Privacy
+Policy. If you’re outside the United States, you consent to letting Range transfer, store, and
+process your information (including your personal information and content) in and out of the United
+States.
 
 ### Miscellaneous
 
-**Disclaimer of warranty**. Habitat provides the Services to you as is. You use them at your own
-risk and discretion. That means they don’t come with any warranty. None express, none implied. No
-implied warranty of merchantability, fitness for a particular purpose, availability, security, title
-or non-infringement.
+**Disclaimer of warranty**. Range provides the Services to you as is. You use them at your own risk
+and discretion. That means they don’t come with any warranty. None express, none implied. No implied
+warranty of merchantability, fitness for a particular purpose, availability, security, title or
+non-infringement.
 
-**Limitation of Liability**. Habitat won’t be liable to you for any damages that arise from your
-using the Services. This includes if the Services are hacked or unavailable. This includes all of
-types of damages (indirect, incidental, consequential, special or exemplary). And it includes all
-kinds of legal claims, such as breach of contract, breach of warranty, tort, or any other loss.
+**Limitation of Liability**. Range won’t be liable to you for any damages that arise from your using
+the Services. This includes if the Services are hacked or unavailable. This includes all of types of
+damages (indirect, incidental, consequential, special or exemplary). And it includes all kinds of
+legal claims, such as breach of contract, breach of warranty, tort, or any other loss.
 
-**No waiver**. If Habitat doesn’t exercise a particular right under these Terms, that doesn’t waive
+**No waiver**. If Range doesn’t exercise a particular right under these Terms, that doesn’t waive
 it.
 
 **Severability**. If any provision of these terms is found invalid by a court of competent
@@ -85,6 +85,6 @@ its conflict of laws provisions. You agree that any suit arising from the Servic
 in a court located in San Francisco, California.
 
 **Entire agreement**. These Terms (including any document incorporated by reference into them) are
-the whole agreement between Habitat and you concerning the Services.
+the whole agreement between Range and you concerning the Services.
 
-Questions? Let us know at [feedback@habitat-labs.com](mailto:feedback@habitat-labs.com).
+Questions? Let us know at [feedback@range.co](mailto:feedback@range.co).
