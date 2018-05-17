@@ -10,7 +10,7 @@ If you believe you’ve found a security vulnerability in Range’s service, ple
 
 ## Disclosure policy
 
-* Let us know as soon as possible when you’ve discovered a potential vulnerability by emailing us at security@range.co. We vow to acknowledge your email within 24 hours.
+* Let us know as soon as possible when you’ve discovered a potential vulnerability by emailing us at [security@range.co](mailto:security@range.co). We vow to acknowledge your email within 24 hours.
 * Provide us a reasonable amount of time to resolve the issue before disclosing it to the public or a third party. We aim to resolve critical issues within one day of disclosure.
 * Make a good faith effort to avoid violating privacy, destroying data, or interrupting or degrading the Range service. Please only interact with domains you own or for which you have explicit permission from the account holder.
 
