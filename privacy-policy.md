@@ -2,7 +2,7 @@
 
 _Effective: August 1, 2017_
 
-_Updated: May 14, 2018_
+_Updated: June 7, 2018_
 
 Privacy is important. We respect yours. Our goal is to do more than we have to
 by law — we want to earn your trust that we are careful with your data. This
@@ -269,6 +269,13 @@ data protection and government access to information. The rules that protect
 your personal information under United States law may be different than in your
 home country. If you choose to use the Services, you need to agree to our Terms
 of Service, which set out the contract between Range and its users.
+
+If you are located in the European Economic Area (“EEA”) or Switzerland, we
+comply with applicable laws to provide an adequate level of data protection for
+the transfer of your Personal Data to the US. Range Labs Inc. is certified under
+the EU-U.S. and the Swiss-U.S. Privacy Shield Framework and adheres to the
+Privacy Shield Principles. For more, see
+[Range’s Privacy Shield Policy](./privacy-shield-policy.html).
 
 ### Questions
 
