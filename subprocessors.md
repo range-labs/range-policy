@@ -9,19 +9,20 @@ Subprocessor.
 
 ## Infrastructure Subprocessors
 
-| Entity Name | Processing Activities | Entity Location |
-| --- | --- |  --- | 
-| Amazon Web Services, Inc. | Cloud Service Provider | United States |
-| Algolia, Inc. | Search Infrastructure | United States |
+| Entity Name               | Processing Activities  | Entity Location |
+| ------------------------- | ---------------------- | --------------- |
+| Amazon Web Services, Inc. | Cloud Service Provider | United States   |
+| Algolia, Inc.             | Search Infrastructure  | United States   |
 
 ## Other Subprocessors
 
-| Entity Name | Processing Activities | Entity Location |
-| --- | --- |  --- | 
-| Google, Inc. | Cloud-based Analytics | United States |
-| Intercom R&D Unlimited Company | Cloud-based CRM | United States | 
-| Sendgrid, Inc. | Cloud-based Email Notifications | United States |
-| Zebrafish Labs, Inc | Cloud-based Image Processing | United States |
+| Entity Name                    | Processing Activities           | Entity Location |
+| ------------------------------ | ------------------------------- | --------------- |
+| Google, Inc.                   | Cloud-based Analytics           | United States   |
+| Intercom R&D Unlimited Company | Cloud-based CRM                 | United States   |
+| Copper CRM, Inc                | Cloud-based CRM                 | United States   |
+| Sendgrid, Inc.                 | Cloud-based Email Notifications | United States   |
+| Zebrafish Labs, Inc            | Cloud-based Image Processing    | United States   |
 
 ## Updates
 
