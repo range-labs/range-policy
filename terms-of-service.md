@@ -1,103 +1,126 @@
-# Range Terms of Service
+# Customer Terms of Service
 
-_Effective: August 1, 2017_
+_Last Updated: December 10, 2018_
 
-_Updated: May 14, 2018_
+Welcome to the Range Labs Inc. (“**Range**”) website located at [range.co](https://www.range.co) (the “**Site**”). If you have purchased a subscription or been invited to participate in a free trial to access and use the Services (defined below), then please read these Customer Terms of Service (the “**Customer Terms**”) and our Privacy Policy ([policy.range.co/privacy-policy.html](https://policy.range.co/privacy-policy.html)) (“**Privacy Policy**”) carefully because they govern your use of our Site and our team coordination software accessible via our Site, services, products, content and our desktop and mobile device applications (“**App**”). To make these Customer Terms easier to read, the Site, our services and App, are collectively called the “**Services**,” and the terms “**Range**,” “**we**,” and “**us**” include Range Labs Inc. and our affiliates and subsidiaries.
 
-These Terms of Service (“Terms”) are a contract between you and Range Labs Inc.
-(“Range”, “us”, “we”). They govern your use of Range’s sites, services, mobile
-apps, products, and content (“Services”). By using Range, you agree to these
-Terms. If you don’t agree to any of the Terms, you can’t use Range. We can
-change these Terms at any time. We will keep a historical record of all changes
-to our Terms. If a change is material, we’ll let you know before they take
-effect. By using Range on or after that effective date, you agree to the new
-Terms. If you don’t agree to them, you should delete your account before they
-take effect, otherwise your use of the site and content will be subject to the
-new Terms.
+**1. Agreement to Customer Terms.** By using the Services and/or inviting your employees, students, friends or any other person or entity to use the Services, you agree to be bound by these Customer Terms as a “**Customer**”. If you have executed a separate written subscription agreement with us (a “**Subscription Agreement**”), then in the event of any conflict or inconsistency between your Subscription Agreement and these Customer Terms, your Subscription Agreement will control.
 
-### Content rights & responsibilities
+**2. Services.** During the period in which you are subscribed to the Services, and subject to your strict compliance with these Customer Terms, including payment of all applicable Subscription Fees, we will use commercially reasonable efforts to provide you with access to use the Services.
 
-Your organization owns the rights to the content you create and post on Range.
+If you are using the Services under a free trial and have not purchased any subscription to the Services (an “**Evaluation Trial**”), then notwithstanding anything to the contrary in these Customer Terms, you hereby acknowledge and agree that (i) the Services, and any content, data, software or other materials provided or accessible in connection with the Services are provided solely on an “AS IS” basis without warranties or representations, express or implied, of any kind; (ii) we may suspend your use and access to the Services, your Workspace (as defined below) and User Content (as defined below) at any time in our sole discretion; and (iii) any User Content, data, settings, visualizations and other materials generated through the Services during your Evaluation Trial will be permanently lost at the end of the Evaluation Trial unless you purchase a paid subscription to the Services that would support your level of use from the Evaluation Trial.
 
-You and your organization are responsible for the content you post. This means
-you assume all risks related to it, including someone else’s reliance on its
-accuracy, or claims relating to intellectual property or other legal rights.
+**3. User Terms.** Subject to the restrictions set forth herein, as part of your subscription to the Services, you have the right to invite and authorize your employees, friends, family, students, consultants, agents, representatives or any other person (“**Authorized Users**”) to sign up for an account on our Site or App to use, access and collaborate with one another and you within your instance of the Services (“**your Workspace**”). You acknowledge and agree that your Authorized Users’ use of the Services is subject to our User Terms of Service ([policy.range.co/user-terms.html](https://policy.range.co/user-terms.html)) (“**User Terms**”), and that you are directly responsible to us for ensuring that your Authorized Users agree to, and comply with, our User Terms and Privacy Policy.
 
-### Our content and services
+**4. Privacy Policy.** Please refer to our Privacy Policy for information on how we collect, use and disclose information from our users. You acknowledge and agree that your (and your Authorized Users’) use of the Services is subject to our Privacy Policy.
 
-We reserve all rights in Range’s look and feel. Some parts of Range are licensed
-under third-party open source licenses. We also may make some of our own code
-available under open source licenses. As for other parts of Range, you may not
-copy or adapt any portion of our code or visual design elements (including
-logos) without express written permission from Range unless otherwise permitted
-by law.
+**5. Who May Use the Services?**
 
-You may not do, or try to do, the following: (1) access or tamper with
-non-public areas of the Services, our computer systems, or the systems of our
-technical providers; (2) access or search the Services by any means other than
-the currently available, published interfaces (e.g., APIs) that we provide; (3)
-forge any TCP/IP packet header or any part of the header information in any
-email or posting, or in any way use the Services to send altered, deceptive, or
-false source-identifying information; or (4) interfere with, or disrupt, the
-access of any user, host, or network, including sending a virus, overloading,
-flooding, spamming, mail-bombing the Services, or by scripting the creation of
-content or accounts in such a manner as to interfere with or create an undue
-burden on the Services.
+(a) _Eligibility._ You may use the Services only if you are (i) 18 years or older and capable of forming a binding contract with Range; (ii) not barred from using the Services under applicable law; and (iii) have an active subscription to the Services.
 
-Crawling the Services is allowed if done in accordance with the provisions of
-our robots.txt file, but scraping the Services is prohibited.
+(b) _Registration and Your Information._ If you or your Authorized Users want to use the Services you and they will have to create an account (“**Account**”). You and they can do this via the Site through our online registration procedures which we may update from time to time.
 
-We may change, terminate, or restrict access to any aspect of the service, at
-any time, without notice.
+(c) _Accuracy of Account Information._ It’s important that you and your Authorized Users provide us with accurate, complete and up-to-date information for your Account and you agree to update such information to keep it accurate, complete and up-to-date. If you or they don’t, we might have to suspend or terminate your or their Account. You agree that you won’t disclose your Account password to anyone and you’ll notify us immediately of any unauthorized use of your Account. You’re responsible for all activities that occur under your Account, whether or not you know about them.
 
-### No children
+**6. Feedback.** We welcome feedback, comments and suggestions for improvements to the Services (“**Feedback**”). You can submit Feedback by emailing us at feedback@range.co. You grant to us a non-exclusive, transferable, worldwide, perpetual, irrevocable, fully-paid, royalty-free license, with the right to sublicense, under any and all intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
 
-Range is only for people 13 years old and over. By using Range, you affirm that
-you are over 13. If we learn someone under 13 is using Range, we’ll terminate
-their account.
+**7. Your Workspace.** Subject to your compliance with the other provisions of these Customer Terms, we will use commercially reasonable efforts implement your reasonable instructions with respect to your Authorized Users, your Workspace and your User Content (as defined below) therein. This includes, for example, the suspension or termination of your Authorized Users, the retention and deletion of User Content on your Workspace, and management of access controls and permissions within your Workspace. You acknowledge and agree that it is solely your responsibility to notify your Authorized Users of any action or instruction by you that could affect their access to and integrity of any User Content.
 
-### Security
+**8. Fees.** Unless expressly stated otherwise in your Subscription Agreement, at the end of each month of your subscription we will charge you a fee for access and use of the Services equal to the number of your Authorized Users that have published any updates or posted any content on our Services in such month (“**Monthly Active Users**”), multiplied by the Active User Price (“**Subscription Fees**”). If you have signed up for a subscription to the Services through our third party payment processing partner and have authorized direct billing to a credit card, debit card or bank account, we will issue a charge to your applicable card or account for applicable Subscription Fees at the end of each month. Otherwise, we will issue you a written or electronic invoice at the end of each month setting forth the applicable Subscription Fees, and the amounts set forth therein will be payable to us no later than fifteen (15) days from the date of such invoice.
 
-If you find a security vulnerability on Range, please tell us. We encourage the
-responsible disclosure of vulnerabilities by emailing
-[security@range.co](mailto:security@range.co).
+For purposes of these Customer Terms, the “**Active User Price**” means the amount that we charge you for each Active User of the Services in each month, as communicated to you in writing by us at the time that you sign up for a subscription to the Services. We may update your Active User Price from time-to-time at our sole discretion upon thirty (30) days’ written notice to you.
 
-### Incorporated rules and policies
+Unpaid Subscription Fees are subject to a finance charge of 1.5% per month on any outstanding balance, or the maximum permitted by law, whichever is lower, plus all expenses of collection. You shall be responsible for all taxes associated with the Services other than U.S. taxes based on Range’s net income.
 
-By using the Services, you agree to let Range collect and use information as
-detailed in our Privacy Policy. If you’re outside the United States, you consent
-to letting Range transfer, store, and process your information (including your
-personal information and content) in and out of the United States.
+**9. Content Ownership and Responsibility.**
 
-### Miscellaneous
+(a) _Definition._ For purposes of these Customer Terms: (i) “**Content**” means text, graphics, images, music, software, audio, video, works of authorship of any kind, and information or other materials that are posted, generated, provided or otherwise made available through the Services, including, but not limited to User Content (as defined below); and (ii) “**User Content**” means data (including personal data and personally identifiable information), content and communications that you or your Authorized Users upload to or post on the Services.
 
-**Disclaimer of warranty**. Range provides the Services to you as is. You use
-them at your own risk and discretion. That means they don’t come with any
-warranty. None express, none implied. No implied warranty of merchantability,
-fitness for a particular purpose, availability, security, title or
-non-infringement.
+(b) _Customer Rights and Responsibilities._ You acknowledge that as between you and Range, it is your sole responsibility to (i) obtain all required consents and permissions from Authorized Users with respect to User Content in connection with the operation of the Services; (ii) inform Authorized Users of any Customer policies, instructions or actions by Customer that may affect User Content and an Authorized Users’ ability to access User Content; and (iii) respond to and resolve questions from Authorized Users and handle any disputes with Authorized Users in connection with User Content.
 
-**Limitation of Liability**. Range won’t be liable to you for any damages that
-arise from your using the Services. This includes if the Services are hacked or
-unavailable. This includes all of types of damages (indirect, incidental,
-consequential, special or exemplary). And it includes all kinds of legal claims,
-such as breach of contract, breach of warranty, tort, or any other loss.
+(c) _Our Content Ownership._ Range does not claim any ownership rights in any of User Content, and as between you and Range, nothing in these Customer Terms will be deemed to restrict any rights that you may have to use and exploit User Content. Subject to the foregoing, Range and its licensors exclusively own all right, title and interest in and to the Services and Content, including all associated intellectual property rights. You acknowledge that the Services and Content are protected by copyright, trademark, and other laws of the United States and foreign countries. You agree not to remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Services or Content.
 
-**No waiver**. If Range doesn’t exercise a particular right under these Terms,
-that doesn’t waive it.
+(d) _Rights in Data Granted by You._ By making User Content available (either through you or your Authorized Users) through the Services you hereby grant to Range a non-exclusive, transferable, worldwide, royalty-free license, with the right to sublicense, to use, copy, modify, create derivative works based upon, distribute, publicly display, and publicly perform User Content in connection with operating and providing the Services and Content to Customer, you and to other Account holders.
 
-**Severability**. If any provision of these terms is found invalid by a court of
-competent jurisdiction, You agree that the court should try to give effect to
-the parties’ intentions as reflected in the provision and that other provisions
-of the Terms will remain in full effect.
+(e) _Your Responsibility for User Content._ You are solely responsible for all User Content. You represent and warrant that you own all User Content or you have all rights that are necessary to grant us the license rights in User Content under these Customer Terms. You also represent and warrant that neither User Content, nor your use and provision of User Content to be made available through the Services, nor any use of User Content by Range on or through the Services will infringe, misappropriate or violate a third party’s intellectual property rights, or rights of publicity or privacy, or result in the violation of any applicable law or regulation.
 
-**Choice of law and jurisdiction**. These Terms are governed by California law,
-without reference to its conflict of laws provisions. You agree that any suit
-arising from the Services must take place in a court located in San Francisco,
-California.
+(f) _Rights in Content Granted by Range._ Subject to your compliance with these Customer Terms, Range grants to you a limited, non-exclusive, non-transferable license, with no right to sublicense, to download, view, copy, display and print the Content solely in connection with your permitted use of the Services in accordance with these Customer Terms.
 
-**Entire agreement**. These Terms (including any document incorporated by
-reference into them) are the whole agreement between Range and you concerning
-the Services.
+**10. DMCA/Copyright Policy.** Range respects copyright law and expects its users to do the same. It is Range’s policy to terminate in appropriate circumstances Account holders who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders. Please see Range’s Copyright and IP Policy at [policy.range.co/copyright.html](https://policy.range.co/copyright.html), for further information.
 
-Questions? Let us know at [feedback@range.co](mailto:feedback@range.co).
+**11. General Prohibitions and Range’s Enforcement Rights.** You agree not to (and will ensure that your Authorized Users do not) do any of the following:
+
+1.  Post, upload, publish, submit or transmit any Content that: (i) infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, false, misleading or deceptive; (iv) is defamatory, obscene, pornographic, vulgar or offensive; (v) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vi) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (vii) promotes illegal or harmful activities or substances;
+2.  Access, tamper with, or use non-public areas of the Services, Range’s computer systems, or the technical delivery systems of Range’s providers;
+3.  Attempt to probe, scan or test the vulnerability of any Range system or network or breach any security or authentication measures;
+4.  Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Range or any of Range’s providers, Customer or any other third party (including another user) to protect the Services or Content;
+5.  Attempt to access or search the Services or Content or download Content from the Services through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Range or other generally available third-party web browsers;
+6.  Send any unsolicited or unauthorized advertising, promotional materials, email, junk mail, spam, chain letters or other form of solicitation;
+7.  Attempt to decipher, decompile, disassemble or reverse engineer any of the software used to provide the Services or Content;
+8.  Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;
+9.  Collect or store any personally identifiable information from the Services from other users of the Services without their express permission;
+10. Impersonate or misrepresent your affiliation with any person or entity;
+11. Violate any applicable law or regulation; or
+12. Encourage or enable any other individual to do any of the foregoing.
+
+Although we’re not obligated to monitor access to or use of the Services or Content or to review or edit any Content, we have the right to do so for the purpose of operating the Services, to ensure compliance with these Customer Terms and to comply with applicable law or other legal requirements. We reserve the right, but are not obligated, to remove or disable access to any Content, at any time and without notice, including, but not limited to, if we, at our sole discretion, consider any Content to be objectionable or in violation of these Customer Terms. We have the right to investigate violations of these Customer Terms or conduct that affects the Services. We may also consult and cooperate with law enforcement authorities to prosecute users who violate the law.
+
+**12. Changes to Terms or Services.** Because the Services and business are evolving over time, we may make updates or modifications to these Customer Terms at any time, in our sole discretion. If we do so, we’ll let you know either by posting the updated Customer Terms on the Site or through other communications. You can also subscribe to updates to our Customer Terms at [github.com/range-labs/range-policy](https://github.com/range-labs/range-policy). If we make a material change to these Customer Terms, we will provide you with reasonable advance notice of such change either through the Services or by email. It’s important that you review the Customer Terms whenever we update them or you or your Authorized Users use the Services. If you or your Authorized Users continue to use the Services after we have posted updated Customer Terms, you are agreeing to be bound by the updated Customer Terms; provided that within thirty (30) days of any such update, you may cancel your subscription by providing us with written notice, and such cancellation will take effect at the end of the then-current month of your subscription. If you don’t agree to be bound by the updated Customer Terms, then you and your Authorized Users may not use the Services anymore.
+
+**13. Support.** As part of your subscription to the Services, Range will provide you and your Authorized Users with reasonable support for the Services via email and chat through our Site during the hours of 9:00am to 5:00pm Pacific time during regular business days.
+
+**14. Marketing.** You grant us the right to use your company name and logo as a reference for marketing or promotional purposes on our Site and in other public or private communications with our existing or potential customers and investors, subject to your standard trademark usage guidelines as provided to us from time-to-time. You may withdraw this right at any time by sending us an email at support@range.co.
+
+With your prior approval, we may produce and publish a case study on our Site regarding your use of the Services. In your discretion, you may provide us with a mutually agreeable quote with respect to Range and the Services, to be used for our marketing and publicity purposes.
+
+**15. Third Party Services.** As part of the Services, we may offer you the ability to integrate the Services and your Workspace with platforms, data, content and software hosted or provided by third parties (“**Third Party Services**”). Notwithstanding anything to the contrary in these Customer Terms, if you elect to integrate and/or use any of these Third Party Services in connection with the Services, you hereby acknowledge and agree that (i) your use of any Third Party Services is governed solely by the terms of the applicable agreement between you and the provider of such Third Party Service; (ii) Range is not responsible for any errors, bugs, delays, interruptions, failures, or any other aspect of the Third Party Services, or any failure of the Services to interoperate or work properly with such Third Party Services; and (iii) any access to such Third Party Services provided by Range through the Services solely on an “AS IS” basis, without warranty of any kind.
+
+The Services (including the Site) may also contain links to third-party websites or resources. We provide these links only as a convenience and are not responsible for the content, products or services on or available from those websites or resources or links displayed on such websites. You acknowledge sole responsibility for and assume all risk arising from, your use of any third-party websites or resources.
+
+**16. Security.** You hereby represent, warrant and agree that you and your Authorized Users will access and use the Services only in compliance with our standard access and security policies then in effect and provided to you in writing. You will be responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use the Services, including, without limitation, modems, hardware, server, software, operating system, networking, web servers, long distance and local telephone service (collectively, “**Equipment**”).
+
+You will be responsible for ensuring that all Equipment is compatible with the Services and complies with all configurations and specifications set forth in our published policies then in effect . You shall also be responsible for maintaining the security of the Equipment, the Account, passwords) and files, and for all uses of the Account or the Equipment with or without your knowledge or consent.
+
+**17. Term.** These Customer Terms will remain in full force and effect for the duration of your subscription to the Services. Unless you and Range expressly agree in writing to the contrary in a Subscription Agreement or otherwise, your subscription will automatically renew at the end of the duration of your subscription and each month thereafter for additional one (1) month periods, unless either party notifies the other of its intent not to renew at least thirty (30) days prior to end of the then-current subscription month.
+
+**18. Termination and Cancellation.**
+
+(a) You or Range may terminate these Customer Terms, including your subscription to the Services, upon notice to the other party, if the other party (or in your case, any of your Authorized Users) materially breaches these Customer Terms and such breach is not cured within thirty (30) days of receipt of such notice.
+
+(b) We may immediately terminate these Customer Terms, including your subscription to the Services, upon notice to you if we reasonably believe that you or your Authorized Users are using the Services in a manner that would violate applicable laws, rules or regulations.
+
+(c) We may also terminate these Customer Terms, including your subscription to the Services, for any reason, upon thirty (30) days’ notice to you, so long as we provide you with a refund of any prepaid fees for the remainder of your subscription.
+
+(d) You may cancel your Account at any time by sending an email to us at support@range.co; provided that such cancellation will not relieve you of any obligation to pay any previously accrued Subscription Fees.
+
+(e) Upon any termination, cancellation or expiration of these Customer Terms and/or your subscription to the Services, the following Sections will survive: 6, 8, 9(a), 9(b), 9(c), 9(e), 12, 18(e), and 19 through 25.
+
+**19. Warranty Disclaimers.** THE SERVICES AND CONTENT ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND. WITHOUT LIMITING THE FOREGOING, WE EXPLICITLY DISCLAIM ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. We make no warranty that the Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. We make no warranty regarding the quality, accuracy, timeliness, truthfulness, completeness or reliability of any Content.
+
+**20. Indemnity.**
+
+(a) Range hereby agrees, at its own expense, to indemnify, defend and pay all damages finally awarded against you in a court of law or binding settlement arising from any suit, claim, or proceeding brought against you by a third party alleging that the use of Services in accordance with these TERMS infringes any U.S. copyright, U.S. trademark or U.S. patent, provided that you (i) promptly notify Range in writing of any such suit, claim or proceeding, (ii) allow Range, at Range’s own expense, to direct the defense of such suit, claim or proceeding, (iii) give Range all information and assistance necessary to defend such suit, claim or proceeding, and (iv) do not enter into any settlement of any such suit, claim or proceeding without Range’s express written consent. The foregoing obligations do not apply with respect to the Services or portions or components thereof (x) not supplied by Range, (y) made in whole or in part in accordance to your specifications, (z) combined with other products, processes or materials where the alleged infringement would not have occurred without such combination. This section states our entire liability and your exclusive remedy for infringement or misappropriation of intellectual property of a third party.
+
+(b) You hereby agree, at your own expense, to indemnify, defend and hold harmless Range against any damages, losses, liabilities, settlements and expenses (including without limitation costs and attorneys’ fees) in connection with any demand, claim, action, suit or proceeding that arises from you or your Authorized Users’ breach of these Customer Terms, or otherwise from your or your Authorized Users’ use of Services to the extent not included in our aforementioned indemnity obligations in Section 20(a).
+
+**21. Limitation of Liability.**
+
+(a) NEITHER RANGE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICES OR CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOST PROFITS, LOST REVENUES, LOST SAVINGS, LOST BUSINESS OPPORTUNITY, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THESE CUSTOMER TERMS OR FROM THE USE OF OR INABILITY TO USE THE SERVICES OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT RANGE OR ANY OTHER PARTY HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+(b) OTHER THAN EITHER PARTY’S INDEMNIFICATION OBLIGATIONS HEREUNDER OR A BREACH OF YOUR PAYMENT OBLIGATIONS OR SECTION 11 HEREUNDER, IN NO EVENT WILL EITHER PARTY’S AGGREGATE LIABILITY IN CONNECTION WITH THE SERVICES OR THESE CUSTOMER TERMS (WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE) EXCEED THE TOTAL SUBSCRIPTION FEES PAID TO RANGE IN THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+(c) THE EXCLUSIONS AND LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN RANGE AND YOU.
+
+**22. Governing Law and Forum Choice.** These Customer Terms and any action related thereto will be governed by the laws of the State of California, without regard to its conflict of laws provisions. Subject to Section 9(b), the exclusive jurisdiction for any dispute, claim or controversy arising out of or relating to these Customer Terms or the breach, termination, enforcement, interpretation or validity thereof or the use of the Services or Content will be the state and federal courts located in the San Francisco county, and you and Range each waive any objection to jurisdiction and venue in such courts.
+
+**23. Confidentiality.** You agree that you and your Authorized Users will not publicly disclose, transfer or use any of our confidential, non-public or proprietary information that we provide to you in connection with the Services, including but not limited to any documentation, instruction manuals, user guides and/or software that we may provide you with from time to time (“**Range Confidential Information**”). You will (and will ensure that your Authorized Users) keep and maintain the confidentiality of the Range Confidential Information.
+
+**24. General Terms.**
+
+(a) _Entire Agreement._ These Customer Terms constitute the entire and exclusive understanding and agreement between Range and you regarding the Services and Content, and these Customer Terms supersede and replace any and all prior oral or written understandings or agreements between Range and you regarding the Services and Content. If any provision of these Customer Terms is held invalid or unenforceable by a court of competent jurisdiction, that provision will be enforced to the maximum extent permissible and the other provisions of these Customer Terms will remain in full force and effect. You may not assign or transfer these Customer Terms, by operation of law or otherwise, without Range’s prior written consent. Any attempt by you to assign or transfer these Customer Terms, without such consent, will be null. Range may freely assign or transfer these Customer Terms without restriction. Subject to the foregoing, these Customer Terms will bind and inure to the benefit of the parties, their successors and permitted assigns.
+
+(b) _Notices._ Any notices or other communications provided by Range under these Customer Terms, including those regarding modifications to these Customer Terms, will be given: (i) via email; or (ii) by posting to the Services. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted.
+
+(c) _Waiver of Rights._ Range’s failure to enforce any right or provision of these Customer Terms will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Range. Except as expressly set forth in these Customer Terms, the exercise by either party of any of its remedies under these Customer Terms will be without prejudice to its other remedies under these Customer Terms or otherwise.
+
+**25. Contact Information.** If you have any questions about these Customer Terms or the Services, please contact Range at feedback@range.co.
