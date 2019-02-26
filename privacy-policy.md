@@ -2,7 +2,7 @@
 
 _Effective: August 1, 2017_
 
-_Updated: June 7, 2018_
+_Updated: February 28, 2019_
 
 Privacy is important. We respect yours. Our goal is to do more than we have to
 by law — we want to earn your trust that we are careful with your data. This
@@ -12,19 +12,19 @@ services, mobile applications, products, and content (“Services”).
 
 ### Table of Contents
 
-* [Changes to this policy](#changes-to-this-policy)
-* [Who we are](#who-we-are)
-* [What this policy applies to](#what-this-policy-applies-to)
-* [Data we collect](#data-we-collect)
-* [How we use this data](#how-we-use-this-data)
-* [How we disclose data](#how-we-disclose-data)
-* [Cookie policy](#cookie-policy)
-* [Data storage](#data-storage)
-* [Data security](#data-security)
-* [Data retention](#data-retention)
-* [Data transfers](#data-transfers)
-* [Questions](#questions)
-* [Data Protection Authority](#data-protection-authority)
+- [Changes to this policy](#changes-to-this-policy)
+- [Who we are](#who-we-are)
+- [What this policy applies to](#what-this-policy-applies-to)
+- [Data we collect](#data-we-collect)
+- [How we use this data](#how-we-use-this-data)
+- [How we disclose data](#how-we-disclose-data)
+- [Cookie policy](#cookie-policy)
+- [Data storage](#data-storage)
+- [Data security](#data-security)
+- [Data retention](#data-retention)
+- [Data transfers](#data-transfers)
+- [Questions](#questions)
+- [Data Protection Authority](#data-protection-authority)
 
 ### Changes to this policy
 
@@ -116,60 +116,23 @@ and store information associated with that third-party account and underlying
 resources. We make efforts to limit data collection to the minimum required to
 provide the service to you.
 
-**Slack**: We register a Slackbot with your workspace. We may send direct
-messages. We may post in channels the bot has been invited too. We may store the
-content of messages that directly mention the bot.
-
-Admin scopes: `bot` \
-User scopes: `identity.basic`
-
-**Google**: When you create your account we may store profile information and
-use Google data to verify your identity and membership of an organization. If
-you connect Google Drive, we register for push
-[notifications](https://developers.google.com/drive/v3/web/push) and store
-metadata about the activity associated with connected accounts. If you connect
-Google Calendar, we query your account and store metadata about events belonging
-to connected accounts.
-
-Sign-in scopes: `userinfo.profile`, `userinfo.email` \
-User scopes: `drive.readonly`, `calendar.readonly`
-
-**GitHub**: We register [webhooks](https://developer.github.com/webhooks/) and
-store metadata about the activity associated with connected accounts. We don't
-have access to repos or source code.
-
-Admin scopes: `user:email`, `admin:org_hook`, `read:org` \
-User scopes: `user:email`
-
-**Asana**: We register
-[webhooks](https://asana.com/developers/api-reference/events) and store metadata
-about the activity associated with connected accounts.
-
-User scopes: `default`
-
-**Dropbox**: We register
-[webhooks](https://www.dropbox.com/developers/reference/webhooks) and store
-metadata about file changes by connected accounts.
-
-**Jira**: Jira requires manual configuration. We request that you configure a
-[webhook](https://developer.atlassian.com/server/jira/platform/webhooks/) such
-that we can collect and store metadata about the activity associated with
-connected accounts.
+Please refer to the [integrations help center](https://help.range.co/integrations)
+to find up to date information on how each integration works and what data is stored.
 
 ### How we use this data
 
 We use your information in the following ways:
 
-* To enable us to provide you with our Services
-* To create and administer your account, contact you, and customize your
-	experience on Range
-* To track and analyze use of the Services so that we can understand how Range
-	is performing and provide users with the best experience possible
-* To send marketing communications (dependent on consent settings)
-* To conduct aggregate, non-identifying analysis about how people use Range
-	Services
-* In the manner described to you at the time of collection or as otherwise
-	described in this Privacy Policy
+- To enable us to provide you with our Services
+- To create and administer your account, contact you, and customize your
+  experience on Range
+- To track and analyze use of the Services so that we can understand how Range
+  is performing and provide users with the best experience possible
+- To send marketing communications (dependent on consent settings)
+- To conduct aggregate, non-identifying analysis about how people use Range
+  Services
+- In the manner described to you at the time of collection or as otherwise
+  described in this Privacy Policy
 
 ##### Email and mobile notifications
 
