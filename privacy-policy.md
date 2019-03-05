@@ -1,8 +1,7 @@
 # Range Privacy Policy
 
-_Effective: August 1, 2017_
-
-_Updated: February 28, 2019_
+- _Effective: May 14, 2018_
+- _Updated: March 4, 2019_
 
 Privacy is important. We respect yours. Our goal is to do more than we have to
 by law — we want to earn your trust that we are careful with your data. This
@@ -242,14 +241,13 @@ Privacy Shield Principles. For more, see
 
 ### Questions
 
-We welcome questions, concerns, and feedback about this policy at
-[feedback@range.co](mailto:feedback@range.co).
+We welcome questions, concerns, and feedback about this policy at feedback@range.co.
 
-To contact our Data Protection Officer, please email
-[pupius@range.co](mailto:pupius@range.co).
+To contact our Data Protection Officer, please email dpo@range.co.
 
-You can contact us in writing at: 188 King Street, Suite 401, San Fransisco, CA,
-94107
+You can contact us in writing at: 188 King Street, Suite 401, San Fransisco, CA, 94107
+
+Our EU Representative is: Jack Baylor, 2 Ashton Place, Gardiner’s Hill, Cork, Ireland
 
 ### Data Protection Authority
 
