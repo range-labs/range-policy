@@ -1,8 +1,7 @@
 # GDPR Commitment
 
-_Effective: May 14, 2018_
-
-_Updated: May 14, 2018_
+- _Effective: May 14, 2018_
+- _Updated: March 4, 2019_
 
 ## Background
 
@@ -17,12 +16,21 @@ customers to help them understand how we are approaching the privacy and
 security of their information.
 
 Questions about our data policies may be directed to our Data Privacy Officer at
-[pupius@range.co](mailto:pupius@range.co).
+[dpo@range.co](mailto:dpo@range.co)
 
 ## Privacy Rights
 
 GDPR is a legal framework that enforces common sense data privacy protections
-that we all want.
+that we all want. Under these regulations you have a number of important rights
+free of charge. In summary, those include rights to:
+
+- Access to your personal data
+- Require us to correct any mistakes in your information which we hold
+- Require the erasure of personal data concerning you in certain situations
+- Object at any time to processing of personal data concerning you for direct marketing
+- Object in certain other situations to our continued processing of your personal data
+- Otherwise restrict our processing of your personal data in certain circumstances
+  claim compensation for damages caused by our breach of any data protection laws.
 
 Below is how we address the most important of these rights:
 
@@ -47,8 +55,11 @@ Range as long as they verify their identity.
 **Access:** Users may request an export of all the personal information we have
 about them. This will be provided within 28 days of receipt of the request.
 
-To request support for any of the above, please email
-[feedback@range.co](mailto:feedback@range.co).
+If you would like to exercise any of those rights, please:
+
+- contact us using our contact details below
+- let us have enough information to identify you,
+- let us know the information to which your request relates.
 
 ## Data Processing
 
@@ -68,3 +79,11 @@ Policies by emailing [feedback@range.co](mailto:feedback@range.co).
 **Access:** Users may request an export of all the information we have about
 them, as well as all the information we have collected from them. This will be
 provided within 28 days of receipt of the request.
+
+## Contact Details
+
+To contact our Data Protection Officer, please email dpo@range.co.
+
+You can contact us in writing at: 188 King Street, Suite 401, San Francisco, CA, 94107
+
+Our EU Representative is: Jack Baylor, 2 Ashton Place, Gardiner’s Hill, Cork, Ireland
