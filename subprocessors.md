@@ -19,6 +19,7 @@ To support the delivery of our Services, Range Labs Inc. may engage and use data
 | Intercom R&D Unlimited Company | Cloud-based CRM                 | United States   |
 | Copper CRM, Inc                | Cloud-based CRM                 | United States   |
 | Sendgrid, Inc.                 | Cloud-based Email Notifications | United States   |
+| Stitch, Inc.                   | Cloud-based ETL                 | United States   |
 | Zebrafish Labs, Inc            | Cloud-based Image Processing    | United States   |
 
 ## Updates
