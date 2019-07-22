@@ -1,6 +1,6 @@
 # EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Policy
 
-_Updated: June 7, 2018_
+_Updated: July 22, 2019_
 
 When transferring data from the European Union, the European Economic Area, and
 Switzerland, Range Labs Inc. relies upon a variety of legal mechanisms,
@@ -21,8 +21,7 @@ JAMS is the US-based independent organization responsible for reviewing and
 resolving complaints about our Privacy Shield compliance — free of charge to
 you. We ask that you first submit any such complaints directly to us via
 privacyshield@range.co. If you aren't satisfied with our response, please
-contact JAMS at
-https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim. In
+contact JAMS at https://www.jamsadr.com/eu-us-privacy-shield. In
 the event your concern still isn't addressed by JAMS, you may be entitled to a
 binding arbitration under Privacy Shield and its principles.
 
@@ -37,3 +36,6 @@ under the Privacy Shield Framework, and subsequently transfers to a third party
 acting as an agent on its behalf. Range Labs Inc. complies with the Privacy
 Shield Principles for all onward transfers of personal data from the EU and
 Switzerland, including the onward transfer liability provisions.
+
+To learn about Range's other privacy practices please see our
+[Privacy Policy](/privacy-policy.html).
