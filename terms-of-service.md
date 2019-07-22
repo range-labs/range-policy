@@ -1,6 +1,6 @@
 # Customer Terms of Service
 
-_Last Updated: December 10, 2018_
+_Last Updated: July 18, 2019_
 
 Welcome to the Range Labs Inc. (“**Range**”) website located at [range.co](https://www.range.co) (the “**Site**”). If you have purchased a subscription or been invited to participate in a free trial to access and use the Services (defined below), then please read these Customer Terms of Service (the “**Customer Terms**”) and our Privacy Policy ([policy.range.co/privacy-policy.html](https://policy.range.co/privacy-policy.html)) (“**Privacy Policy**”) carefully because they govern your use of our Site and our team coordination software accessible via our Site, services, products, content and our desktop and mobile device applications (“**App**”). To make these Customer Terms easier to read, the Site, our services and App, are collectively called the “**Services**,” and the terms “**Range**,” “**we**,” and “**us**” include Range Labs Inc. and our affiliates and subsidiaries.
 
