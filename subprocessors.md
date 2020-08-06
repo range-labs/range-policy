@@ -1,8 +1,11 @@
 # Sub Processors
 
-_Updated: April 16, 2019_
+_Updated: August 6, 2020_
 
-To support the delivery of our Services, Range Labs Inc. may engage and use data processors with access to certain Customer Data (each, a “**Subprocessor**”). This page provides information about the identity, location and role of each Subprocessor.
+To support the delivery of our Services, Range Labs Inc. may engage and use data
+processors with access to certain Customer Data (each, a “**Subprocessor**”).
+This page provides information about the identity, location and role of each
+Subprocessor.
 
 ## Infrastructure Subprocessors
 
@@ -13,14 +16,17 @@ To support the delivery of our Services, Range Labs Inc. may engage and use data
 
 ## Other Subprocessors
 
-| Entity Name                    | Processing Activities           | Entity Location |
-| ------------------------------ | ------------------------------- | --------------- |
-| Google, Inc.                   | Cloud-based Analytics           | United States   |
-| Intercom R&D Unlimited Company | Cloud-based CRM                 | United States   |
-| Copper CRM, Inc                | Cloud-based CRM                 | United States   |
-| Sendgrid, Inc.                 | Cloud-based Email Notifications | United States   |
-| Stitch, Inc.                   | Cloud-based ETL                 | United States   |
-| Zebrafish Labs, Inc            | Cloud-based Image Processing    | United States   |
+| Entity Name                    | Processing Activities      | Entity Location |
+| ------------------------------ | -------------------------- | --------------- |
+| Copper CRM, Inc                | Customer success & support | United States   |
+| Google, Inc.                   | Data analytics, marketing  | United States   |
+| Intercom R&D Unlimited Company | Customer success & support | United States   |
+| Sendgrid, Inc.                 | Product email              | United States   |
+| Slack Technologies, Inc.       | Chat ops                   | United States   |
+| Stitch, Inc.                   | Cloud-based ETL            | United States   |
+| Stripe, Inc.                   | Payment processing         | United States   |
+| The Rocket Science Group       | Marketing email            | United States   |
+| Zebrafish Labs, Inc            | Image processing           | United States   |
 
 ## Updates
 
