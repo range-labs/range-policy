@@ -1,6 +1,6 @@
 # Sub Processors
 
-_Updated: August 6, 2020_
+_Updated: October 2, 2020_
 
 To support the delivery of our Services, Range Labs Inc. may engage and use data
 processors with access to certain Customer Data (each, a “**Subprocessor**”).
@@ -18,9 +18,11 @@ Subprocessor.
 
 | Entity Name                    | Processing Activities      | Entity Location |
 | ------------------------------ | -------------------------- | --------------- |
+| ActiveCampaign, LLC            | Marketing email            | United States   |
 | Copper CRM, Inc                | Customer success & support | United States   |
 | Google, Inc.                   | Data analytics, marketing  | United States   |
 | Intercom R&D Unlimited Company | Customer success & support | United States   |
+| Reply Service                  | Sales automation           | United States   |
 | Sendgrid, Inc.                 | Product email              | United States   |
 | Slack Technologies, Inc.       | Chat ops                   | United States   |
 | Stitch, Inc.                   | Cloud-based ETL            | United States   |
