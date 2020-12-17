@@ -161,7 +161,7 @@ We use your information in the following ways:
 - To send marketing communications (dependent on consent settings)
 - To conduct aggregate, non-identifying analysis about how people use Range
   Services
-- To provide customer support and communicate with your regarding your account,
+- To provide customer support and communicate with you regarding your account,
   activities on our Services, and Privacy Policy changes
 - To detect, combat and notify you about security threats or malicious,
   deceptive, fraudulent, or illegal activity, and otherwise to enforce our
