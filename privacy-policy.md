@@ -182,7 +182,7 @@ unsubscribe link found at the bottom of said email messages. We won’t email yo
 to ask for your password or other account information. If you receive such an
 email, send it to us so we can investigate.
 
-###### Notifications
+##### Notifications
 
 Other email and mobile notifications are controlled by your account and
 organization settings. You may opt out from receiving these push notifications
