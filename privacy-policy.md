@@ -12,7 +12,7 @@ services, mobile applications, products, and content (“Services”).
 ### Table of Contents
 
 - [Changes to this policy](#changes-to-this-policy)
-- [Who we are](#who-we-are)
+- [Who We Are](#who-we-are)
 - [What this policy applies to](#what-this-policy-applies-to)
 - [Data we collect](#data-we-collect)
 - [How we use data](#how-we-use-this-data)
@@ -25,6 +25,8 @@ services, mobile applications, products, and content (“Services”).
 - [Your Privacy rights](#your-privacy-rights)
 - [Questions](#questions)
 - [Data Protection Authority](#data-protection-authority)
+- [Supplemental Notice For California Residents](#supplemental-notice-for-california-residents)
+- [Supplemental Notice For Nevada Residents](#supplemental-notice-for-nevada-residents)
 
 ### Changes to this policy
 
@@ -33,7 +35,7 @@ changes to it. The most current version of the policy will always be
 [here](https://github.com/range-labs/range-policy) and we will archive [former
 versions of the policy](https://github.com/range-labs/range-policy/commits/main/privacy-policy.md).
 
-### Who we are
+### Who We Are
 
 Range provides services to help companies work better together. Our main service
 is a team coordination tool for building high-performance cultures. We are a
@@ -346,3 +348,73 @@ Subject to applicable law, if you are a citizen or resident of the European
 Economic Area, you also have the right to (i) object to Range’s use of your
 personal information and (ii) lodge a complaint with your local data protection
 authority.
+
+### Supplemental Notice for California Residents
+
+This Supplemental California Privacy Notice only applies to our processing of
+personal information that is subject to the California Consumer Privacy Act of
+2018 (“CCPA”). The CCPA provides California residents with the right to know
+what categories of personal information Range has collected about them and
+whether Range disclosed that personal information for a business purpose (e.g.,
+to a service provider) in the preceding 12 months. California residents can find
+this information below:
+
+
+| Category of Personal Information Collected by Range |	Category of Third Parties Information is Disclosed to for a Business Purpose |
+|---|---|
+| **Identifiers.** A real name, alias, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. | Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))** A name, address, telephone number, employment, and billing information.	| Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Protected classification characteristics under California or federal law** Age sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions.	|	Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Commercial information** Records of products or services purchased, or other purchasing or consuming histories or tendencies.	|	Data analytics providers, Service providers |
+| **Internet or other electronic network activity** Information on a consumer's interaction with an internet website, application, or advertisement. | Data analytics providers, Service providers |
+| **Sensory data** Audio, electronic, visual, thermal, olfactory, or similar information.	|	Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Professional or employment-related information** Current or past job history or performance evaluations. | Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Inferences drawn from other personal information to create a profile about a consumer** Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.	|	Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+
+The categories of sources from which we collect personal information and our
+business and commercial purposes for using personal information are set forth in
+“[Data we collect](#data-we-collect)” and
+“[How we use data](#how-we-use-this-data)” above, respectively.
+
+#### “Sales” of Personal Information under the CCPA
+
+For purposes of the CCPA, Range does not “sell” personal information, nor do we
+have actual knowledge of any “sale” of personal  information of minors under 16
+years of age.
+
+#### Additional Privacy Rights for California Residents
+
+- **Non-Discrimination.** California residents have the right not to receive
+  discriminatory treatment by us for the exercise of their rights conferred by
+  the CCPA.
+- **Authorized Agent.** Only you, or someone legally authorized to act on your
+  behalf, may make a verifiable consumer request related to your personal
+  information. To designate an authorized agent, please contact us as set forth
+  in “[Questions](#questions)” above and provide written authorization signed by
+  you and your designated agent.
+-	**Verification.** To protect your privacy, we will take steps the following
+  steps to verify your identity before fulfilling your request. When you make a
+  request,  we will ask you to provide sufficient information that allows us to
+  reasonably verify you are the person about whom we collected personal
+  information or an authorized representative, which may include asking you to
+  answer questions regarding your use of our Services.
+
+If you are a California resident and would like to exercise any of your rights
+under the CCPA, please contact us as set forth in “[Questions](#questions)”
+above. We will process such requests in accordance with applicable laws.
+
+This Privacy Policy uses industry-standard technologies and was developed in
+line with the World Wide Web Consortium’s Web Content Accessibility Guidelines,
+version 2.1. If you wish to print this Privacy Policy, please do so from your
+web browser or by saving the page as a PDF.
+
+### Supplemental Notice for Nevada Residents
+
+If you are a resident of Nevada, you have the right to opt-out of the sale of
+certain Personal Information to third parties who intend to license or sell that
+Personal Information. You can exercise this right by contacting
+feedback@range.co with the subject line “Nevada Do Not Sell Request” and
+providing us with your name and the email address associated with your account.
+Please note that we do not currently sell your Personal Information as sales are
+defined in Nevada Revised Statutes Chapter 603A.
+
