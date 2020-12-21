@@ -1,7 +1,7 @@
 # Range Privacy Policy
 
 - _Effective: May 14, 2018_
-- _Updated: December 15, 2020_
+- _Updated: December 21, 2020_
 
 Privacy is important. We respect yours. Our goal is to do more than we have to
 by law — we want to earn your trust that we are careful with your data. This
@@ -325,10 +325,11 @@ In accordance with applicable law, you may have the right to:
 - **Withdraw your Consent** to our processing of your personal information.
 
 To modify or delete the personal information you’ve provided to us, please log
-in and update your account. You may also request that your account be deleted by
-emailing feedback@range.co. We will process such requests in accordance with
-applicable laws. We may retain certain information as required by law or as
-necessary for our legitimate business purposes.
+in and update your account. You may also request that your account be deleted or
+exercise the other rights outlined above by emailing feedback@range.co. We will
+process such requests in accordance with applicable laws. We may retain certain
+information as required by law or as necessary for our legitimate business
+purposes.
 
 ### Questions
 
