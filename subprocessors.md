@@ -1,6 +1,6 @@
 # Sub Processors
 
-_Updated: October 2, 2020_
+_Updated: October 6, 2021_
 
 To support the delivery of our Services, Range Labs Inc. may engage and use data
 processors with access to certain Customer Data (each, a “**Subprocessor**”).
@@ -24,6 +24,7 @@ Subprocessor.
 | Intercom R&D Unlimited Company | Customer success & support | United States   |
 | Reply Service                  | Sales automation           | United States   |
 | Sendgrid, Inc.                 | Product email              | United States   |
+| Segment.io, Inc.               | Data analytics             | United States   |
 | Slack Technologies, Inc.       | Chat ops                   | United States   |
 | Stitch, Inc.                   | Cloud-based ETL            | United States   |
 | Stripe, Inc.                   | Payment processing         | United States   |
