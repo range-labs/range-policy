@@ -1,6 +1,6 @@
 # Sub Processors
 
-_Updated: Novemebr 5, 2021_
+_Updated: November 5, 2021_
 
 To support the delivery of our Services, Range Labs Inc. may engage and use data
 processors with access to certain Customer Data (each, a “**Subprocessor**”).
