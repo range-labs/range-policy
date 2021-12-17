@@ -19,6 +19,7 @@ Subprocessor.
 | Entity Name                    | Processing Activities      | Entity Location |
 | ------------------------------ | -------------------------- | --------------- |
 | ActiveCampaign, LLC            | Marketing email            | United States   |
+| Appcues                        | User onboarding            | United States   |
 | HubSpot, Inc.                  | Customer success & support | United States   |
 | Google, Inc.                   | Data analytics, marketing  | United States   |
 | Intercom R&D Unlimited Company | Customer success & support | United States   |
