@@ -1,6 +1,6 @@
 # Sub Processors
 
-_Updated: November 5, 2021_
+_Updated: May 3, 2022_
 
 To support the delivery of our Services, Range Labs Inc. may engage and use data
 processors with access to certain Customer Data (each, a “**Subprocessor**”).
@@ -30,6 +30,7 @@ Subprocessor.
 | Stitch, Inc.                   | Cloud-based ETL            | United States   |
 | Stripe, Inc.                   | Payment processing         | United States   |
 | The Rocket Science Group       | Marketing email            | United States   |
+| Vitally                        | Customer success & support | United States   |
 | Zebrafish Labs, Inc            | Image processing           | United States   |
 
 ## Updates

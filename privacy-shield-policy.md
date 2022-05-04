@@ -1,20 +1,20 @@
 # EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Policy
 
-_Updated: July 22, 2019_
+_Updated: May 3, 2022_
 
 When transferring data from the European Union, the European Economic Area, and
 Switzerland, Range Labs Inc. relies upon a variety of legal mechanisms,
 including contracts with our users.
 
-Range Labs Inc. complies with the EU-U.S. Privacy Shield Framework and
-Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of
+Range Labs Inc. complies with the EU-U.S. Privacy Shield Framework and the
+Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of
 Commerce regarding the collection, use, and retention of personal information
 transferred from the European Union and Switzerland to the United States. Range
 Labs Inc. has certified to the Department of Commerce that it adheres to the
 Privacy Shield Principles. If there is any conflict between the terms in this
 privacy policy and the Privacy Shield Principles, the Privacy Shield Principles
 shall govern. To learn more about the Privacy Shield program, and to view our
-certification, please visit https://www.privacyshield.gov/
+certification, please visit https://www.privacyshield.gov/.
 
 Range Labs Inc. is subject to oversight by the U.S. Federal Trade Commission.
 JAMS is the US-based independent organization responsible for reviewing and
