@@ -1,6 +1,6 @@
 # Sub Processors
 
-_Updated: May 3, 2022_
+_Updated: July 11, 2022_
 
 To support the delivery of our Services, Range Labs Inc. may engage and use data
 processors with access to certain Customer Data (each, a “**Subprocessor**”).
@@ -23,13 +23,11 @@ Subprocessor.
 | HubSpot, Inc.                  | Customer success & support | United States   |
 | Google, Inc.                   | Data analytics, marketing  | United States   |
 | Intercom R&D Unlimited Company | Customer success & support | United States   |
-| Reply Service                  | Sales automation           | United States   |
 | Sendgrid, Inc.                 | Product email              | United States   |
 | Segment.io, Inc.               | Data analytics             | United States   |
 | Slack Technologies, Inc.       | Chat ops                   | United States   |
 | Stitch, Inc.                   | Cloud-based ETL            | United States   |
 | Stripe, Inc.                   | Payment processing         | United States   |
-| The Rocket Science Group       | Marketing email            | United States   |
 | Vitally                        | Customer success & support | United States   |
 | Zebrafish Labs, Inc            | Image processing           | United States   |
 
