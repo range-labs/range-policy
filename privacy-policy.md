@@ -146,7 +146,7 @@ with that third-party account and its underlying resources. We make efforts to
 limit data collection to the minimum required to provide the service to you.
 
 Please refer to the
-[integrations help center](https://www.range.co/help/integrations) to find up to
+[integrations help center](https://www.range.co/help/connecting-apps-and-integrations) to find up to
 date information on how each integration works and what data is stored.
 
 ### How we use data
@@ -217,7 +217,6 @@ Development Kits (“SDKs”) as part of the functionality of our Services. For 
 information about our use of APIs and SDKs, please contact us as set forth in
 “[Questions](#questions)” below.
 
-
 #### Customer support
 
 Range partners with Intercom, Inc. (“Intercom”) to provide you with customer
@@ -229,8 +228,8 @@ shared with them in accordance with their policies
 
 We use cookies and similar technologies such as pixels and local storage
 (collectively, “Technologies”) to recognize you when you return to our Services
- We use them in various ways, for example to log you in, remember your
- preferences, evaluate email effectiveness, and personalize information.
+We use them in various ways, for example to log you in, remember your
+preferences, evaluate email effectiveness, and personalize information.
 
 Our uses of these Technologies fall into the following general categories:
 
@@ -360,17 +359,16 @@ whether Range disclosed that personal information for a business purpose (e.g.,
 to a service provider) in the preceding 12 months. California residents can find
 this information below:
 
-
-| Category of Personal Information Collected by Range |	Category of Third Parties Information is Disclosed to for a Business Purpose |
-|---|---|
-| **Identifiers.** A real name, alias, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. | Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
-| **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))** A name, address, telephone number, employment, and billing information.	| Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
-| **Protected classification characteristics under California or federal law** Age sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions.	|	Service providers, Other Users (e.g., profile information and User Content you share) |
-| **Commercial information** Records of products or services purchased, or other purchasing or consuming histories or tendencies.	|	Data analytics providers, Service providers |
-| **Internet or other electronic network activity** Information on a consumer's interaction with an internet website, application, or advertisement. | Data analytics providers, Service providers |
-| **Sensory data** Audio, electronic, visual, thermal, olfactory, or similar information.	|	Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
-| **Professional or employment-related information** Current or past job history or performance evaluations. | Service providers, Other Users (e.g., profile information and User Content you share) |
-| **Inferences drawn from other personal information to create a profile about a consumer** Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.	|	Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+| Category of Personal Information Collected by Range                                                                                                                                                                                                         | Category of Third Parties Information is Disclosed to for a Business Purpose                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Identifiers.** A real name, alias, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.                                                                                   | Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))** A name, address, telephone number, employment, and billing information.                                                                 | Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Protected classification characteristics under California or federal law** Age sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions.                                                         | Service providers, Other Users (e.g., profile information and User Content you share)                           |
+| **Commercial information** Records of products or services purchased, or other purchasing or consuming histories or tendencies.                                                                                                                             | Data analytics providers, Service providers                                                                     |
+| **Internet or other electronic network activity** Information on a consumer's interaction with an internet website, application, or advertisement.                                                                                                          | Data analytics providers, Service providers                                                                     |
+| **Sensory data** Audio, electronic, visual, thermal, olfactory, or similar information.                                                                                                                                                                     | Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
+| **Professional or employment-related information** Current or past job history or performance evaluations.                                                                                                                                                  | Service providers, Other Users (e.g., profile information and User Content you share)                           |
+| **Inferences drawn from other personal information to create a profile about a consumer** Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | Data analytics providers, Service providers, Other Users (e.g., profile information and User Content you share) |
 
 The categories of sources from which we collect personal information and our
 business and commercial purposes for using personal information are set forth in
@@ -380,7 +378,7 @@ business and commercial purposes for using personal information are set forth in
 #### “Sales” of Personal Information under the CCPA
 
 For purposes of the CCPA, Range does not “sell” personal information, nor do we
-have actual knowledge of any “sale” of personal  information of minors under 16
+have actual knowledge of any “sale” of personal information of minors under 16
 years of age.
 
 #### Additional Privacy Rights for California Residents
@@ -393,9 +391,9 @@ years of age.
   information. To designate an authorized agent, please contact us as set forth
   in “[Questions](#questions)” above and provide written authorization signed by
   you and your designated agent.
--	**Verification.** To protect your privacy, we will take steps the following
+- **Verification.** To protect your privacy, we will take steps the following
   steps to verify your identity before fulfilling your request. When you make a
-  request,  we will ask you to provide sufficient information that allows us to
+  request, we will ask you to provide sufficient information that allows us to
   reasonably verify you are the person about whom we collected personal
   information or an authorized representative, which may include asking you to
   answer questions regarding your use of our Services.
@@ -418,4 +416,3 @@ feedback@range.co with the subject line “Nevada Do Not Sell Request” and
 providing us with your name and the email address associated with your account.
 Please note that we do not currently sell your Personal Information as sales are
 defined in Nevada Revised Statutes Chapter 603A.
-
