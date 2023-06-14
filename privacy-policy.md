@@ -1,7 +1,7 @@
 # Range Privacy Policy
 
 - _Effective: May 14, 2018_
-- _Updated: December 21, 2020_
+- _Updated: June 14, 2023_
 
 Privacy is important. We respect yours. Our goal is to do more than we have to
 by law — we want to earn your trust that we are careful with your data. This
@@ -340,7 +340,7 @@ You can contact us in writing at:
 Range Labs Inc., 268 Bush St. #2632, San Francisco, CA 94104
 
 Our EU Representative is:
-Jack Baylor, 2 Ashton Place, Gardiner’s Hill, Cork, Ireland
+George Barry, 4 St Christopher's Rd, Montenotte, Cork, T23 E9TR, Ireland
 
 ### Data Protection Authority
 

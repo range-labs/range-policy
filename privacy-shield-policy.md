@@ -1,6 +1,6 @@
 # EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Policy
 
-_Updated: May 3, 2022_
+_Updated: June 14, 2023_
 
 When transferring data from the European Union, the European Economic Area, and
 Switzerland, Range Labs Inc. relies upon a variety of legal mechanisms,

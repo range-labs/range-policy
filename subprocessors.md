@@ -1,6 +1,6 @@
 # Sub Processors
 
-_Updated: July 11, 2022_
+_Updated: June 14, 2023_
 
 To support the delivery of our Services, Range Labs Inc. may engage and use data
 processors with access to certain Customer Data (each, a “**Subprocessor**”).
@@ -18,7 +18,6 @@ Subprocessor.
 
 | Entity Name                    | Processing Activities      | Entity Location |
 | ------------------------------ | -------------------------- | --------------- |
-| ActiveCampaign, LLC            | Marketing email            | United States   |
 | Appcues                        | User onboarding            | United States   |
 | HubSpot, Inc.                  | Customer success & support | United States   |
 | Google, Inc.                   | Data analytics, marketing  | United States   |
@@ -28,7 +27,6 @@ Subprocessor.
 | Slack Technologies, Inc.       | Chat ops                   | United States   |
 | Stitch, Inc.                   | Cloud-based ETL            | United States   |
 | Stripe, Inc.                   | Payment processing         | United States   |
-| Vitally                        | Customer success & support | United States   |
 | Zebrafish Labs, Inc            | Image processing           | United States   |
 
 ## Updates
